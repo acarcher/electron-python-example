@@ -1,5 +1,17 @@
 # Electron as GUI of Python Applications (Updated)
 
+## Resources
+
+[Electron/Python Medium Post](https://medium.com/@abulka/electron-python-4e8c807bfa5e)
+
+[Electron Quickstart](https://github.com/electron/electron-quick-start)
+
+#### Not worth using Angular until proficient in JS
+[Angular/Electron](https://malcoded.com/posts/angular-desktop-electron/)
+
+[More Angular/Electron](https://alligator.io/angular/electron/)
+
+
 ## tl;dr
 
 This post shows how to use Electron as the GUI component of Python applications. (Updated version of one of my previous posts.) The frontend and backend communicate with each other using `zerorpc`. The complete code is on [GitHub repo](https://github.com/fyears/electron-python-example).
